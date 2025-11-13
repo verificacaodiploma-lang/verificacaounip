@@ -203,6 +203,14 @@
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 22/11/2024',
         status: 'Ativo'
+      },
+      '46886-75': {
+        diploma: '46886-75',
+        name: 'Alex Aparecido Fernandes Rosseti',
+        degree: 'Bacharel em Psicologia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 10/08/2024',
+        status: 'Ativo'
       }
     };
 
