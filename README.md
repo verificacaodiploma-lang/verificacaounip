@@ -7,11 +7,11 @@
   <title>UNIP — Sistema de Verificação de Diplomas</title>
   <style>
     :root {
-      --bg: #fff8e1;
+      --bg: #f5f7ff;
       --card: #ffffff;
-      --accent: #d50000;
+      --accent: #003399; /* Azul bic */
       --muted: #6b7280;
-      --gold: #ffcc00;
+      --gold: #FFD700; /* Amarelo */
     }
 
     body {
@@ -22,7 +22,7 @@
     }
 
     header {
-      background: linear-gradient(90deg, #d5000020, #ffcc0000);
+      background: linear-gradient(90deg, #00339920, #FFD70020);
       padding: 24px 28px;
       border-bottom: 3px solid var(--gold);
       display: flex;
@@ -55,7 +55,7 @@
     .search input {
       flex: 1;
       padding: 14px 16px;
-      border: 1px solid #e6e9ee;
+      border: 1px solid #d6d9e5;
       border-radius: 8px;
       font-size: 15px;
     }
@@ -71,7 +71,7 @@
     }
 
     .search button:hover {
-      background: #b71c1c;
+      background: #00246b;
     }
 
     .content {
@@ -101,10 +101,10 @@
     }
 
     .img-wrap {
-      background: #fffbea;
+      background: #fffbe8;
       padding: 18px;
       border-radius: 10px;
-      border: 1px solid #ffe082;
+      border: 1px solid #ffe38a;
     }
 
     .meta {
@@ -116,7 +116,7 @@
       display: inline-block;
       padding: 6px 10px;
       border-radius: 8px;
-      background: #ffe082;
+      background: var(--gold);
       color: var(--accent);
       font-weight: 700;
     }
@@ -210,6 +210,14 @@
         degree: 'Bacharel em Psicologia',
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 10/08/2024',
+        status: 'Ativo'
+      },
+      '46556-54': {
+        diploma: '46556-54',
+        name: 'Josilene Santos Ribeiro',
+        degree: 'Técnico em Enfermagem',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 07/08/2024',
         status: 'Ativo'
       }
     };
