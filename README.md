@@ -219,6 +219,16 @@
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 07/08/2024',
         status: 'Ativo'
+      },
+
+      /* 🔥 NOVO REGISTRO ADICIONADO */
+      '47755-66': {
+        diploma: '47755-66',
+        name: 'Josilene Santos Ribeiro',
+        degree: 'Licenciatura em Pedagogia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 20/08/2024',
+        status: 'Ativo'
       }
     };
 
