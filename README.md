@@ -220,7 +220,6 @@
         date: 'Conclusão em 07/08/2024',
         status: 'Ativo'
       },
-
       '47755-66': {
         diploma: '47755-66',
         name: 'Josilene Santos Ribeiro',
@@ -229,14 +228,22 @@
         date: 'Conclusão em 20/08/2024',
         status: 'Ativo'
       },
-
-      /* 🔥 NOVO REGISTRO — Tatiane */
       '57775-86': {
         diploma: '57775-86',
         name: 'Tatiane Carla Valdivino Gomes Silva',
         degree: 'Licenciatura em Pedagogia',
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 26/02/2021',
+        status: 'Ativo'
+      },
+
+      /* 🔥 NOVO REGISTRO — Cristiano */
+      '55567-86': {
+        diploma: '55567-86',
+        name: 'Cristiano Ferreira da Cruz',
+        degree: 'Bacharel em Psicologia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 10/08/2025',
         status: 'Ativo'
       }
     };
