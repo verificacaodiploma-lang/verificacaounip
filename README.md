@@ -181,8 +181,7 @@
         <div class="card">
           <div class="muted">Visualização</div>
           <div class="img-wrap" style="margin-top:12px;display:flex;justify-content:center">
-            <canvas id="previewCanvas" width="420" height="260" role="img"
-              aria-label="Pré-visualização do diploma"></canvas>
+            <canvas id="previewCanvas" width="420" height="260" role="img" aria-label="Pré-visualização do diploma"></canvas>
           </div>
         </div>
       </div>
@@ -237,10 +236,20 @@
         status: 'Ativo'
       },
 
-      /* 🔥 NOVO REGISTRO — Cristiano */
+      /* 🔥 REGISTRO — Cristiano */
       '55567-86': {
         diploma: '55567-86',
         name: 'Cristiano Ferreira da Cruz',
+        degree: 'Bacharel em Psicologia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 10/08/2025',
+        status: 'Ativo'
+      },
+
+      /* 🔥 NOVO REGISTRO — Wilson */
+      '566545-87': {
+        diploma: '566545-87',
+        name: 'Wilson Aparecido Costa',
         degree: 'Bacharel em Psicologia',
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 10/08/2025',
