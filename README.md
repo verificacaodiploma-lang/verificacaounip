@@ -9,9 +9,9 @@
     :root {
       --bg: #f5f7ff;
       --card: #ffffff;
-      --accent: #003399; /* Azul bic */
+      --accent: #003399;
       --muted: #6b7280;
-      --gold: #FFD700; /* Amarelo */
+      --gold: #FFD700;
     }
 
     body {
@@ -236,7 +236,7 @@
         status: 'Ativo'
       },
 
-      /* 🔥 REGISTRO — Cristiano */
+      /* Cristiano */
       '55567-86': {
         diploma: '55567-86',
         name: 'Cristiano Ferreira da Cruz',
@@ -246,13 +246,23 @@
         status: 'Ativo'
       },
 
-      /* 🔥 NOVO REGISTRO — Wilson */
+      /* Wilson */
       '566545-87': {
         diploma: '566545-87',
         name: 'Wilson Aparecido Costa',
         degree: 'Bacharel em Psicologia',
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 10/08/2025',
+        status: 'Ativo'
+      },
+
+      /* 🔥 NOVO REGISTRO — NICOLE */
+      '466456-65': {
+        diploma: '466456-65',
+        name: 'Nicole de Souza Queiroz',
+        degree: 'Bacharel em Psicologia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 24/08/2022',
         status: 'Ativo'
       }
     };
