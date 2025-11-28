@@ -256,13 +256,23 @@
         status: 'Ativo'
       },
 
-      /* 🔥 NOVO REGISTRO — NICOLE */
+      /* Nicole */
       '466456-65': {
         diploma: '466456-65',
         name: 'Nicole de Souza Queiroz',
         degree: 'Bacharel em Psicologia',
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 24/08/2022',
+        status: 'Ativo'
+      },
+
+      /* ⭐ Novo registro — Jacqueline */
+      '46755-85': {
+        diploma: '46755-85',
+        name: 'Jacqueline Ferreira da Silva',
+        degree: 'Bacharel em Psicologia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 24/07/2025',
         status: 'Ativo'
       }
     };
