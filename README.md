@@ -236,7 +236,6 @@
         status: 'Ativo'
       },
 
-      /* Cristiano */
       '55567-86': {
         diploma: '55567-86',
         name: 'Cristiano Ferreira da Cruz',
@@ -246,7 +245,6 @@
         status: 'Ativo'
       },
 
-      /* Wilson */
       '566545-87': {
         diploma: '566545-87',
         name: 'Wilson Aparecido Costa',
@@ -256,7 +254,6 @@
         status: 'Ativo'
       },
 
-      /* Nicole */
       '466456-65': {
         diploma: '466456-65',
         name: 'Nicole de Souza Queiroz',
@@ -266,13 +263,22 @@
         status: 'Ativo'
       },
 
-      /* ⭐ Novo registro — Jacqueline */
       '46755-85': {
         diploma: '46755-85',
         name: 'Jacqueline Ferreira da Silva',
         degree: 'Bacharel em Psicologia',
         inst: 'Universidade Paulista (UNIP)',
         date: 'Conclusão em 24/07/2025',
+        status: 'Ativo'
+      },
+
+      /* ⭐ Novo registro — Joana */
+      '375457-87': {
+        diploma: '375457-87',
+        name: "Joana D'arc de Rezende",
+        degree: 'Bacharel em Psicologia',
+        inst: 'Universidade Paulista (UNIP)',
+        date: 'Conclusão em 09/08/2020',
         status: 'Ativo'
       }
     };
